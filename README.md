@@ -14,7 +14,7 @@ To use this NRD script download the dnsbl_ip_nrd_downloader.sh script to the /us
 DAY_RANGE="${DAY_RANGE:-14}" -> change 14 to the number of days to download
 ```
 
-You can now force an update or wait until pfBlockerNG next refreshes. All newly created domains will be blocked.
+You can now force an update or wait until pfBlockerNG next refreshes. All newly created domains will be blocked. Note that these lists are large, with 14 days of NRD averaging 1.5M domains.
 
 # Why should I block NRD?
 
