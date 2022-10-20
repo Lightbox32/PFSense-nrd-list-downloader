@@ -10,6 +10,7 @@ To use this NRD script download the dnsbl_ip_nrd_downloader.sh script to the /us
 * Expand Advanced Tuneables and select dnsbl_ip_pre_nrd_downloader under Pre-process Script.
 * Under DNSBL Source Definitions add /var/db/pfblockerng/nrd/nrd-14days-free.txt for the source, make sure that the State is on, and give it a Header/Label.
 * Save, and you're done! By default the script downloads domains created within the last 14 days. This can be changed by editing line 24 in the script.
+
 | DAY_RANGE="${DAY_RANGE:-14}" -> change 14 to the number of days to download |
 
 You can now force an update or wait until pfBlockerNG next refreshes. All newly created domains will be blocked.
