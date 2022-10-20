@@ -20,4 +20,4 @@ You can now force an update or wait until pfBlockerNG next refreshes. All newly 
 
 Malicious actors often register new domains to source spam or malware campaigns or to use for phishing or hacking. Blocking newly created domains provide a level of protection against these sites.
 
-For more information on why you should block these sites see these articles by [HelpNetSecurity](https://www.helpnetsecurity.com/2019/08/23/block-new-domains/), [TripWire](https://www.tripwire.com/state-of-security/block-newly-registered-domains-to-reduce-security-threats-in-your-organisation), and [Palo Alto Networks](https://unit42.paloaltonetworks.com/newly-registered-domains-malicious-abuse-by-bad-actors/).
+For more information on why you should block these newly created domains check out these articles by [HelpNetSecurity](https://www.helpnetsecurity.com/2019/08/23/block-new-domains/), [TripWire](https://www.tripwire.com/state-of-security/block-newly-registered-domains-to-reduce-security-threats-in-your-organisation), and [Palo Alto Networks](https://unit42.paloaltonetworks.com/newly-registered-domains-malicious-abuse-by-bad-actors/).
