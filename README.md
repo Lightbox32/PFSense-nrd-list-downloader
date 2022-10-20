@@ -12,3 +12,9 @@ To use this NRD script download the dnsbl_ip_nrd_downloader.sh script to the /us
 * Save, and you're done! By default the script downloads domains created within the last 14 days. This can be changed by editing the script.
 
 You can now force an update or wait until pfBlockerNG next refreshes. All newly created domains will be blocked.
+
+# Why should I block NRD?
+
+Malicious actors often register new domains to source spam or malware campaigns or to use for phishing or hacking. Blocking newly created domains provide a level of protection against these sites.
+
+For more information on why you should block these sites see these articles by [HelpNetSecurity](https://www.helpnetsecurity.com/2019/08/23/block-new-domains/), [TripWire](https://www.tripwire.com/state-of-security/block-newly-registered-domains-to-reduce-security-threats-in-your-organisation), and [Palo Alto Networks](https://unit42.paloaltonetworks.com/newly-registered-domains-malicious-abuse-by-bad-actors/).
