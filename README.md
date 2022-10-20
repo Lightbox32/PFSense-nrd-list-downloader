@@ -1,4 +1,4 @@
-# PFSense Newly Registered Domains (NRD) Downloader
+# pfSense Newly Registered Domains (NRD) Downloader
 
 This script downloads and aggregates a list of Newly Registerd Domains (NRD) from WhoisDS.com to create a custom DNSBL blocklist in pfBlockerNG. It is based on work by [PeterDaveHello](https://github.com/PeterDaveHello/nrd-list-downloader).
 
